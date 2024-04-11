@@ -1,0 +1,5 @@
+logs/
+results/
+model_save/
+__pycache__/
+
